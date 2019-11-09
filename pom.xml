@@ -9,6 +9,7 @@
 	<properties>
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
+		<exec.mainClass>src/main/java/da/javafx/checkPalindrome/Main</exec.mainClass>
 	</properties>
   
   	<dependencies>
